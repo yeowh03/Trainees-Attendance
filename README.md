@@ -1,6 +1,6 @@
 # Trainees-Attendance
 
-CLick [here](https://glacial-falls-17702-9b8309e416b8.herokuapp.com/) to view the deployed web app.
+Click [here](https://glacial-falls-17702-9b8309e416b8.herokuapp.com/) to view the deployed web app.
 
 Traditionally, instructors manually track trainee attendance and compile daily status reports via WhatsApp for their supervisors. To streamline this process and minimize errors, I developed a web application using ReactJS, Flask, and a PostgreSQL database.
 

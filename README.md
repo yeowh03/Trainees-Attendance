@@ -1,6 +1,6 @@
 # Trainees-Attendance
 
-Traditionally, instructors manually track trainee attendance and compile daily status reports via WhatsApp for their supervisors. To streamline this process and minimize errors, I developed a web application using React, Flask, and a PostgreSQL database.
+Traditionally, instructors manually track trainee attendance and compile daily status reports via WhatsApp for their supervisors. To streamline this process and minimize errors, I developed a web application using ReactJS, Flask, and a PostgreSQL database.
 
 The application consists of three tabs:
 

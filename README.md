@@ -1,4 +1,4 @@
-# Trainees-Attendance
+# Training-Attendance
 
 Click [here](https://glacial-falls-17702-9b8309e416b8.herokuapp.com/) to view the deployed web app currently in use.
 

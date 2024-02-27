@@ -10,4 +10,7 @@ The application consists of three tabs:
 
 **Status**: This tab generates the daily status report.
 
-**MC**: Reflects the total medical leave duration (MC) of recruits. Supervisors can use this information to identify individuals requiring additional attention and follow-up.
+**MC**: Reflects the total medical leave duration (MC) of recruits. 
+
+**LD**: Reflects the total light duty duration (LD) of recruits.
+Supervisors can use information of both MC and LD to identify individuals requiring additional attention and follow-up.
